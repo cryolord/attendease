@@ -1,2 +1,2 @@
 # AttendEase
-basically an website to track attendance
+basically a website to track attendance
